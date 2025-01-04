@@ -15,11 +15,12 @@
     "dev-04": "nodemon ./04-express/index.js"
   },
   "keywords": [
-    "http",
-    "request",
+    "express",
+    "middleware",
     "get",
     "post",
-    "createServer"
+    "log",
+    "form"
   ],
   "author": "OlegBon",
   "license": "ISC"
