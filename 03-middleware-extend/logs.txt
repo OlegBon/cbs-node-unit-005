@@ -1,0 +1,12 @@
+Request: 2025-01-04T20:25:22.417Z ::1, GET - /
+Response: 304 - OK
+Request: 2025-01-04T20:25:22.465Z ::1, GET - /robots.txt?482228
+Response: 404 - Not Found
+Request: 2025-01-04T20:25:33.107Z ::1, GET - /adm
+Response: 404 - Not Found
+Request: 2025-01-04T20:25:33.181Z ::1, GET - /robots.txt?482228
+Response: 404 - Not Found
+Request: 2025-01-04T20:28:33.207Z ::1, GET - /
+Response: 200 - OK
+Request: 2025-01-04T20:28:49.780Z ::1, GET - /postman
+Response: 404 - Not Found

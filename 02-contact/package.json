@@ -1,0 +1,26 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "Create a server that will have the route /contact. Create a form with fields for name, email, and message. The form should send the information entered by the user to the server and write it to a file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contact",
+    "form",
+    "get",
+    "post",
+    "file",
+    "express"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}

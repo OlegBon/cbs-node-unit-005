@@ -1,0 +1,23 @@
+{
+  "name": "middleware-extend",
+  "version": "1.0.0",
+  "description": "Create middleware to log requests from clients. The logging should write to a file all request parameters, request method, and IP address. Extend the example from task 1 with the ability to record information about the response from the server.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "middleware",
+    "log",
+    "express"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}

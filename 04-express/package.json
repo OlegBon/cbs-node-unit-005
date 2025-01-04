@@ -1,0 +1,21 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Create a simple server using the Express.js framework that will return the string 'CyberBionic'. The string should be displayed on the page in the browser.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
